@@ -10,6 +10,11 @@ module.exports = {
       commonjs: "angular",
       amd: "angular",
       root: "angular" // indicates global variable
+    },
+    Cesium: {
+      commonjs: "Cesium",
+      amd: "Cesium",
+      root: "Cesium"
     }
   },
   entry: {
