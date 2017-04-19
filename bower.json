@@ -1,0 +1,25 @@
+{
+  "name": "cesium-sandbox",
+  "version": "0.0.0",
+  "authors": [
+    "Lance Caraccioli <lcaraccioli@cloud.upwork.com>"
+  ],
+  "description": "Cesium Sandbox",
+  "keywords": [
+    "upwork",
+    "client",
+    "library",
+    "seed"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

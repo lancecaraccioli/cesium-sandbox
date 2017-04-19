@@ -1,0 +1,8 @@
+.DS_Store
+/test/coverage
+/.idea
+node_modules
+junit-output.xml
+bower_components/
+config.json
+npm-debug.log
